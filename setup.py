@@ -8,7 +8,7 @@ long_description = (this_directory / "README.md").read_text()
 
 
 setup(
-    name="cookie-clicker-parser",
+    name="cookie_clicker_parser",
     version="1.0.1",
     description="Parser for Cookie Clicker save codes",
     long_description=long_description,
