@@ -1,0 +1,11 @@
+build==1.2.2.post1
+colorama==0.4.6
+cookie-clicker-parser @ file:///C:/Users/Lukas/Programming/Python/Cookie-Clicker-Parser
+iniconfig==2.0.0
+packaging==24.1
+pluggy==1.5.0
+pyproject_hooks==1.2.0
+pytest==8.3.3
+pytest-assume==2.4.3
+setuptools==75.2.0
+six==1.16.0
