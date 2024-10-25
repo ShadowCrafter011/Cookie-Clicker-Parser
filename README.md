@@ -91,7 +91,7 @@ Contains data about unlocked and owned upgrades. Stored as array.
 ```python
 upgrades = game["upgrades"]
 upgrades[0].keys()
-=> dict_keys(['unlocked', 'bought'])
+=> dict_keys(["unlocked", "bought"])
 ```
 
 #### achievements
