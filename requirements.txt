@@ -1,6 +1,5 @@
 build==1.2.2.post1
 colorama==0.4.6
-cookie-clicker-parser @ file:///C:/Users/Lukas/Programming/Python/Cookie-Clicker-Parser
 iniconfig==2.0.0
 packaging==24.1
 pluggy==1.5.0
