@@ -99,7 +99,7 @@ def misc_game_data_data() -> object:
         "sugar_lump_type": (int,),
         "vault": (vault_parser,),
         "heralds": (int,),
-        "golden_cookie_fortune": (int,),
+        "golden_cookie_fortune": (float,),
         "cps_fortune": (float,),
         "highest_raw_cps": (float,),
         "music_volume": (int,),
